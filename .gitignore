@@ -13,7 +13,7 @@ captures/
 .externalNativeBuild/
 .cxx/
 *.aab
-*.apk
+*.FILE
 output-metadata.json
 
 # IntelliJ
@@ -23,12 +23,17 @@ misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
 
-# Keystore files
-*.jks
-*.keystore
+# JEKKY files
+*.ANTI BAND XMOD
+*.EASY DRAG 75%
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
 # Android Profiling
 *.hprof
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><MIUI-backup><jsonMsg></jsonMsg><bakVersion>2</bakVersion><brState>3</brState><autoBackup>false</autoBackup><device>duchamp</device><miuiVersion>OS2.0.3.0.VNLINXM</miuiVersion><date>1771070801177</date><size>571380078</size><storageLeft>76188684288</storageLeft><supportReconnect>true</supportReconnect><autoRetransferCnt>0</autoRetransferCnt><transRealCompletedSize>0</transRealCompletedSize><packages><package><packageName>com.dts.freefiremax</packageName><feature>102</feature><bakFile>Free Fire MAX(com.dts.freefiremax).bak</bakFile><splitFile>Free Fire MAX(com.dts.freefiremax).split</splitFile><splitFileSize>386511648</splitFileSize><bakType>2</bakType><pkgSize>571380078</pkgSize><sdSize>0</sdSize><state>1</state><completedSize>571380078</completedSize><error>0</error><progType>0</progType><bakFileSize>184868430</bakFileSize><transingCompletedSize>0</transingCompletedSize><transingTotalSize>184867328</transingTotalSize><transingSdCompletedSize>0</transingSdCompletedSize><sectionSize>0</sectionSize><sendingIndex>0</sendingIndex></package></packages><filesModifyTime /></MIU
+I-backup>
+upg update 
+dtajson
+com.dts.freefireth
